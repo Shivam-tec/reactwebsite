@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.8b5fbce4.css",
+    "main.js": "/reactwebsite/static/js/main.33484678.js",
+    "static/media/apple-1868496_640.jpg": "/reactwebsite/static/media/apple-1868496_640.e41c26a5482f1d9d9aa1.jpg",
+    "static/media/gears-686316_640.jpg": "/reactwebsite/static/media/gears-686316_640.c8a1718df4d26625411a.jpg",
+    "index.html": "/reactwebsite/index.html",
+    "main.8b5fbce4.css.map": "/reactwebsite/static/css/main.8b5fbce4.css.map",
+    "main.33484678.js.map": "/reactwebsite/static/js/main.33484678.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b5fbce4.css",
+    "static/js/main.33484678.js"
+  ]
+}
